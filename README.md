@@ -5,3 +5,4 @@ Lista de exercícios disponíveis:
 * 004 - Dissecando variáveis
 * 005 - Antecessor e sucessor
 * 006 - Dobro, triplo e raíz quadrada
+* 007
