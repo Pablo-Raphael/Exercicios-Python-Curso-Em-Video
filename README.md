@@ -6,3 +6,4 @@ Lista de exercícios disponíveis:
 * 005 - Antecessor e sucessor
 * 006 - Dobro, triplo e raíz quadrada
 * 007
+* 008
