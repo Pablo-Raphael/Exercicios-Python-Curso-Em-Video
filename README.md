@@ -5,5 +5,6 @@ Lista de exercícios disponíveis:
 * 004 - Dissecando variáveis
 * 005 - Antecessor e sucessor
 * 006 - Dobro, triplo e raíz quadrada
-* 007
-* 008
+* 007 - Média entre dois números 
+* 008 - Conversão de M para Cm e MM
+* 009 - Tabuada

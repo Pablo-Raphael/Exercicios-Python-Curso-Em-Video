@@ -3,6 +3,7 @@
 
 # Solução:
 
+
 n=int(input('Escreva o número desejado: '))
 dobro=(n*2)
 triplo=(n*3)
