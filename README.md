@@ -8,3 +8,4 @@ Lista de exercícios disponíveis:
 * 007 - Média entre dois números 
 * 008 - Conversão de M para Cm e MM
 * 009 - Tabuada
+* 010 - 
