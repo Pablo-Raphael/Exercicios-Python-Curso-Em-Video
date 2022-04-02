@@ -10,4 +10,4 @@ Lista de exercícios disponíveis:
 * 009 - Tabuada
 * 010 - Conversor de moedas
 * 011 - Pintando parede
-* 
+* 012 - Calculando descontos
