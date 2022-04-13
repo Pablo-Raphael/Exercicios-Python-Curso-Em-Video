@@ -11,3 +11,6 @@ Lista de exercícios disponíveis:
 * 010 - Conversor de moedas
 * 011 - Pintando parede
 * 012 - Calculando descontos
+* 013 
+* 014
+* 015
