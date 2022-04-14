@@ -12,5 +12,5 @@ Lista de exercícios disponíveis:
 * 011 - Pintando parede
 * 012 - Calculando descontos
 * 013 - Reajuste Salarial
-* 014
+* 014 - Conversor de Temperaturas
 * 015
