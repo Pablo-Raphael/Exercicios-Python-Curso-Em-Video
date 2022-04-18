@@ -13,4 +13,4 @@ Lista de exercícios disponíveis:
 * 012 - Calculando descontos
 * 013 - Reajuste Salarial
 * 014 - Conversor de Temperaturas
-* 015
+* 015 incompleto
