@@ -14,3 +14,4 @@ Lista de exercícios disponíveis:
 * 013 - Reajuste Salarial
 * 014 - Conversor de Temperaturas
 * 015 - Aluguel de Carros
+* 016 - Quebrando um número
