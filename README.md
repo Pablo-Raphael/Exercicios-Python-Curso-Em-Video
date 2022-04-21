@@ -15,3 +15,4 @@ Lista de exercícios disponíveis:
 * 014 - Conversor de temperaturas
 * 015 - Aluguel de tarros
 * 016 - Quebrando um número
+* 017 - Catetos e hipotenusa
