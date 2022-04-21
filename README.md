@@ -11,7 +11,7 @@ Lista de exercícios disponíveis:
 * 010 - Conversor de moedas
 * 011 - Pintando parede
 * 012 - Calculando descontos
-* 013 - Reajuste Salarial
-* 014 - Conversor de Temperaturas
-* 015 - Aluguel de Carros
+* 013 - Reajuste salarial
+* 014 - Conversor de temperaturas
+* 015 - Aluguel de tarros
 * 016 - Quebrando um número
