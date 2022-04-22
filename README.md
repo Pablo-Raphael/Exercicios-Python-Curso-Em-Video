@@ -16,3 +16,4 @@ Lista de exercícios disponíveis:
 * 015 - Aluguel de tarros
 * 016 - Quebrando um número
 * 017 - Catetos e hipotenusa
+* 018 - Seno, Cosseno e Tangente
