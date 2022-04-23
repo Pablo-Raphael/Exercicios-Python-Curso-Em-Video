@@ -5,7 +5,7 @@ Lista de exercícios disponíveis:
 * 004 - Dissecando variáveis
 * 005 - Antecessor e sucessor
 * 006 - Dobro, triplo e raíz quadrada
-* 007 - Média entre dois números 
+* 007 - Média entre dois números
 * 008 - Conversão de M para Cm e MM
 * 009 - Tabuada
 * 010 - Conversor de moedas
@@ -17,3 +17,4 @@ Lista de exercícios disponíveis:
 * 016 - Quebrando um número
 * 017 - Catetos e hipotenusa
 * 018 - Seno, Cosseno e Tangente
+* 019 - Sorteando uma item na lista
