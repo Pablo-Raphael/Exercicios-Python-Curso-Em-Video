@@ -18,3 +18,4 @@ Lista de exercícios disponíveis:
 * 017 - Catetos e hipotenusa
 * 018 - Seno, Cosseno e Tangente
 * 019 - Sorteando uma item na lista
+* 020 - Sorteando uma ordem na lista
