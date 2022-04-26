@@ -20,3 +20,4 @@ Lista de exercícios disponíveis:
 * 019 - Sorteando uma item na lista
 * 020 - Sorteando uma ordem na lista
 * 021 - Tocando um MP3
+* 022 - Analisador de textos
