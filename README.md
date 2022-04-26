@@ -19,3 +19,4 @@ Lista de exercícios disponíveis:
 * 018 - Seno, Cosseno e Tangente
 * 019 - Sorteando uma item na lista
 * 020 - Sorteando uma ordem na lista
+* 021 - Tocando um MP3
