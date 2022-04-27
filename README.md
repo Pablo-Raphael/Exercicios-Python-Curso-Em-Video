@@ -21,3 +21,4 @@ Lista de exercícios disponíveis:
 * 020 - Sorteando uma ordem na lista
 * 021 - Tocando um MP3
 * 022 - Analisador de textos
+* 023 - Separando dígitos de um número
