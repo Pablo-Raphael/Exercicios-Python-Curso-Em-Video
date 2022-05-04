@@ -22,4 +22,4 @@ Lista de exercícios disponíveis:
 * 021 - Tocando um MP3
 * 022 - Analisador de textos
 * 023 - Separando dígitos de um número
-* 024 - 
+* 024 - Verificando as primeiras letras de um texto
