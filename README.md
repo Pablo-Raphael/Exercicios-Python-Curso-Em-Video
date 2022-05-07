@@ -23,3 +23,4 @@ Lista de exercícios disponíveis:
 * 022 - Analisador de textos
 * 023 - Separando dígitos de um número
 * 024 - Verificando as primeiras letras de um texto
+* 025 - 
