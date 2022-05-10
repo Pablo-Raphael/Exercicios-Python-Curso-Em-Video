@@ -24,4 +24,4 @@ Lista de exercícios disponíveis:
 * 023 - Separando dígitos de um número
 * 024 - Verificando as primeiras letras de um texto
 * 025 - Procurando uma string dentro de outra
-* 026 -
+* 026 - Primeira e última ocorrência de uma string
