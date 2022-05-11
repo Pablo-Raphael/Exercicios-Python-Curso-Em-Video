@@ -25,3 +25,4 @@ Lista de exercícios disponíveis:
 * 024 - Verificando as primeiras letras de um texto
 * 025 - Procurando uma string dentro de outra
 * 026 - Primeira e última ocorrência de uma string
+* 027 - Primeiro e último nome de uma pessoa
