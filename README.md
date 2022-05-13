@@ -27,3 +27,4 @@ Lista de exercícios disponíveis:
 * 026 - Primeira e última ocorrência de uma string
 * 027 - Primeiro e último nome de uma pessoa
 * 028 - Jogo de adivinhação
+* 029 - Radar eletrônico
