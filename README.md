@@ -28,3 +28,4 @@ Lista de exercícios disponíveis:
 * 027 - Primeiro e último nome de uma pessoa
 * 028 - Jogo de adivinhação
 * 029 - Radar eletrônico
+* 030 - Par ou Ímpar?
