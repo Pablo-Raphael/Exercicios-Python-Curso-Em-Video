@@ -29,4 +29,4 @@ Lista de exercícios disponíveis:
 * 028 - Jogo de adivinhação
 * 029 - Radar eletrônico
 * 030 - Par ou Ímpar?
-* 031 - 
+* 031 - Custo da Viagem
