@@ -30,3 +30,4 @@ Lista de exercícios disponíveis:
 * 029 - Radar eletrônico
 * 030 - Par ou Ímpar?
 * 031 - Custo da Viagem
+* 032 - Ano Bissexto
