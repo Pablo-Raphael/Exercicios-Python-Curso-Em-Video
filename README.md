@@ -1,4 +1,5 @@
-Lista de exercícios disponíveis:
+Lista de exercícios disponíveis:,
+
 * 001 - Olá Mundo
 * 002 - Olá usuário
 * 003 - Somando dois números
@@ -31,3 +32,4 @@ Lista de exercícios disponíveis:
 * 030 - Par ou Ímpar?
 * 031 - Custo da Viagem
 * 032 - Ano Bissexto
+* 033 - 
