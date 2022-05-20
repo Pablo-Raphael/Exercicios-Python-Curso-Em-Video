@@ -33,3 +33,4 @@ Lista de exercícios disponíveis:,
 * 031 - Custo da Viagem
 * 032 - Ano Bissexto
 * 033 - 
+* 034
