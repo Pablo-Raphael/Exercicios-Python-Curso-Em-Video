@@ -32,6 +32,6 @@ Lista de exercícios disponíveis:,
 * 030 - Par ou Ímpar?
 * 031 - Custo da Viagem
 * 032 - Ano Bissexto
-* 033 - 
+* 033 - Maior e Menor
 * 034 - 
 * 035 - 
