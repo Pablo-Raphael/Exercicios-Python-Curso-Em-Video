@@ -34,4 +34,4 @@ Lista de exercícios disponíveis:,
 * 032 - Ano Bissexto
 * 033 - Maior e Menor
 * 034 - Aumentos múltiplos
-* 035 - 
+* 035 - Analisando Triângulo V1.0
