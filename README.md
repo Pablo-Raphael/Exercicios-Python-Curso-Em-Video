@@ -35,3 +35,4 @@ Lista de exercícios disponíveis:,
 * 033 - Maior e Menor
 * 034 - Aumentos múltiplos
 * 035 - Analisando Triângulo V1.0
+* 036 - Aprovando Empréstimo
