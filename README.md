@@ -36,3 +36,4 @@ Lista de exercícios disponíveis:,
 * 034 - Aumentos múltiplos
 * 035 - Analisando Triângulo V1.0
 * 036 - Aprovando Empréstimo
+* 037 - Conversor de Bases Numéricas
