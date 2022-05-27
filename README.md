@@ -37,3 +37,4 @@ Lista de exercícios disponíveis:,
 * 035 - Analisando Triângulo V1.0
 * 036 - Aprovando Empréstimo
 * 037 - Conversor de Bases Numéricas
+* 038 - Comparando números
