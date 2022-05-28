@@ -38,3 +38,4 @@ Lista de exercícios disponíveis:,
 * 036 - Aprovando Empréstimo
 * 037 - Conversor de Bases Numéricas
 * 038 - Comparando números
+* 039 - Alistamento militar
