@@ -40,3 +40,4 @@ Lista de exercícios disponíveis:,
 * 038 - Comparando números
 * 039 - Alistamento militar
 * 040 - Aquele clássico da Média
+* 041 - Classificando Atletas
