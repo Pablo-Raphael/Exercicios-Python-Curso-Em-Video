@@ -41,4 +41,4 @@ Lista de exercícios disponíveis:,
 * 039 - Alistamento militar
 * 040 - Aquele clássico da Média
 * 041 - Classificando Atletas
-* 042 - 
+* 042 - Analisando Triângulos v2.0
