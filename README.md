@@ -42,3 +42,4 @@ Lista de exercícios disponíveis:,
 * 040 - Aquele clássico da Média
 * 041 - Classificando Atletas
 * 042 - Analisando Triângulos v2.0
+* 043 - Índice de Massa Corporal
