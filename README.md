@@ -43,3 +43,4 @@ Lista de exercícios disponíveis:,
 * 041 - Classificando Atletas
 * 042 - Analisando Triângulos v2.0
 * 043 - Índice de Massa Corporal
+* 044 - Gerenciador de Pagamentos
