@@ -45,3 +45,4 @@ Lista de exercícios disponíveis:,
 * 043 - Índice de Massa Corporal
 * 044 - Gerenciador de Pagamentos
 * 045 - Pedra Papel e Tesoura
+* 046 - Contagem regressiva
