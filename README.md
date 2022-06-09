@@ -46,3 +46,4 @@ Lista de exercícios disponíveis:,
 * 044 - Gerenciador de Pagamentos
 * 045 - Pedra Papel e Tesoura
 * 046 - Contagem regressiva
+* 047 - Contagem de pares
