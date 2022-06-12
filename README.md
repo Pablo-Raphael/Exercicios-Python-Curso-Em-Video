@@ -48,3 +48,4 @@ Lista de exercícios disponíveis:,
 * 046 - Contagem regressiva
 * 047 - Contagem de pares
 * 048
+* 049 -
