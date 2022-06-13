@@ -47,5 +47,5 @@ Lista de exercícios disponíveis:,
 * 045 - Pedra Papel e Tesoura
 * 046 - Contagem regressiva
 * 047 - Contagem de pares
-* 048
+* 048 -
 * 049 -
