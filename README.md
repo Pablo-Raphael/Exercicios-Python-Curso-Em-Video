@@ -49,3 +49,4 @@ Lista de exercícios disponíveis:,
 * 047 - Contagem de pares
 * 048 - Soma ímpares múltiplos de três
 * 049 - Tabuada V2.0
+* 050 - Soma dos pares
