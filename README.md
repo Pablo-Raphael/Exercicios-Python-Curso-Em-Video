@@ -1,4 +1,4 @@
-Lista de exercícios disponíveis:,
+Lista de exercícios disponíveis:
 
 * 001 - Olá Mundo
 * 002 - Olá usuário
@@ -50,3 +50,4 @@ Lista de exercícios disponíveis:,
 * 048 - Soma ímpares múltiplos de três
 * 049 - Tabuada V2.0
 * 050 - Soma dos pares
+* 051 - Progressão Aritmética
