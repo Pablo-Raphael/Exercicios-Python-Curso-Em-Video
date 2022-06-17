@@ -51,3 +51,4 @@ Lista de exercícios disponíveis:
 * 049 - Tabuada V2.0
 * 050 - Soma dos pares
 * 051 - Progressão Aritmética
+* 052 - Números primos
