@@ -53,3 +53,4 @@ Lista de exercícios disponíveis:
 * 051 - Progressão Aritmética
 * 052 - Números primos
 * 053 - Detector de Palíndromo
+* 054 - Grupo da Maioridade
