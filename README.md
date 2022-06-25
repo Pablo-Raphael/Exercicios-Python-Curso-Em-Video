@@ -54,3 +54,4 @@ Lista de exercícios disponíveis:
 * 052 - Números primos
 * 053 - Detector de Palíndromo
 * 054 - Grupo da Maioridade
+* 055 - Maior e menor da sequência
