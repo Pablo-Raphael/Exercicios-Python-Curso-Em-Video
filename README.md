@@ -55,3 +55,4 @@ Lista de exercícios disponíveis:
 * 053 - Detector de Palíndromo
 * 054 - Grupo da Maioridade
 * 055 - Maior e menor da sequência
+* 056 - Analisador completo
