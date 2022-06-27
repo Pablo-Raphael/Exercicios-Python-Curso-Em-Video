@@ -56,3 +56,4 @@ Lista de exercícios disponíveis:
 * 054 - Grupo da Maioridade
 * 055 - Maior e menor da sequência
 * 056 - Analisador completo
+* 057 - Validação de Dados
