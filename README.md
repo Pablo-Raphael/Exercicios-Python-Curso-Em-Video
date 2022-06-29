@@ -58,3 +58,4 @@ Lista de exercícios disponíveis:
 * 056 - Analisador completo
 * 057 - Validação de Dados
 * 058 - Jogo da Adivinhação v2.0
+* 059 - Criando um Menu de Opções
