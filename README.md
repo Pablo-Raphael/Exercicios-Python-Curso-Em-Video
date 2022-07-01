@@ -59,3 +59,4 @@ Lista de exercícios disponíveis:
 * 057 - Validação de Dados
 * 058 - Jogo da Adivinhação v2.0
 * 059 - Criando um Menu de Opções
+* 060 - Cálculo do Fatorial
