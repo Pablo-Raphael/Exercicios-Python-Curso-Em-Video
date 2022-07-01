@@ -29,3 +29,10 @@ while num != 1:
 
 # Fecha mostrando o resultado total
 print(f"1 = {fatorial}")
+
+
+
+# Caso a intenção seja só saber o fatorial, o Python tem essa função nativamente:
+
+# from math import factorial
+# print(factorial( COLOQUE AQUI UM NÚMERO ))
