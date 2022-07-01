@@ -60,3 +60,4 @@ Lista de exercícios disponíveis:
 * 058 - Jogo da Adivinhação v2.0
 * 059 - Criando um Menu de Opções
 * 060 - Cálculo do Fatorial
+* 061 - Progressão aritmética
