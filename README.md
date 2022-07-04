@@ -63,3 +63,4 @@ Lista de exercícios disponíveis:
 * 061 - Progressão aritmética
 * 062 - Super Progressão Aritmética
 * 063 - Sequência de Fibonacci V1.0
+* 064 - Tratando vários valores
