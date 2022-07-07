@@ -65,4 +65,5 @@ Lista de exercícios disponíveis:
 * 063 - Sequência de Fibonacci V1.0
 * 064 - Tratando vários valores
 * 065 - Maior e Menor valores
-* 066 Vários números com flag
+* 066 - Vários números com flag
+* 067 - Tabuada V3
