@@ -67,3 +67,4 @@ Lista de exercícios disponíveis:
 * 065 - Maior e Menor valores
 * 066 - Vários números com flag
 * 067 - Tabuada V3
+* 068 - Jogo Par ou Ímpar
