@@ -68,3 +68,4 @@ Lista de exercícios disponíveis:
 * 066 - Vários números com flag
 * 067 - Tabuada V3
 * 068 - Jogo Par ou Ímpar
+* 069 - Análise de dados do grupo
