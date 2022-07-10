@@ -69,3 +69,4 @@ Lista de exercícios disponíveis:
 * 067 - Tabuada V3
 * 068 - Jogo Par ou Ímpar
 * 069 - Análise de dados do grupos
+* 070 - Estatísticas em produtos
