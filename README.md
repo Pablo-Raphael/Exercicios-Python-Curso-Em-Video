@@ -70,3 +70,4 @@ Lista de exercícios disponíveis:
 * 068 - Jogo Par ou Ímpar
 * 069 - Análise de dados do grupos
 * 070 - Estatísticas em produtos
+* 071 - Simulador de Caixa Eletrônico
