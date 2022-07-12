@@ -71,3 +71,4 @@ Lista de exercícios disponíveis:
 * 069 - Análise de dados do grupos
 * 070 - Estatísticas em produtos
 * 071 - Simulador de Caixa Eletrônico
+* 072 - Número por Extenso
