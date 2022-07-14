@@ -72,3 +72,4 @@ Lista de exercícios disponíveis:
 * 070 - Estatísticas em produtos
 * 071 - Simulador de Caixa Eletrônico
 * 072 - Número por Extenso
+* 073 - Tuplas com Times de Futebol
