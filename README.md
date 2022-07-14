@@ -73,3 +73,4 @@ Lista de exercícios disponíveis:
 * 071 - Simulador de Caixa Eletrônico
 * 072 - Número por Extenso
 * 073 - Tuplas com Times de Futebol
+* 074 - Maior e Menor valores em tupla
