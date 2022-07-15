@@ -74,3 +74,4 @@ Lista de exercícios disponíveis:
 * 072 - Número por Extenso
 * 073 - Tuplas com Times de Futebol
 * 074 - Maior e Menor valores em tupla
+* 075 - Análise de dados em uma Tupla
