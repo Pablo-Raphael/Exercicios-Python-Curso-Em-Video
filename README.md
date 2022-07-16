@@ -75,3 +75,4 @@ Lista de exercícios disponíveis:
 * 073 - Tuplas com Times de Futebol
 * 074 - Maior e Menor valores em tupla
 * 075 - Análise de dados em uma Tupla
+* 076 - Lista de Preços com Tupla
