@@ -76,3 +76,4 @@ Lista de exercícios disponíveis:
 * 074 - Maior e Menor valores em tupla
 * 075 - Análise de dados em uma Tupla
 * 076 - Lista de Preços com Tupla
+* 077 - Contando vogais em Tupla
