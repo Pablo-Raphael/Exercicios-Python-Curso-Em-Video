@@ -78,4 +78,4 @@ Lista de exercícios disponíveis:
 * 076 - Lista de Preços com Tupla
 * 077 - Contando vogais em Tupla
 * 078 - Maior e Menor valores na Lista
-* 079 - 
+* 079 - Valores únicos em uma Lista
