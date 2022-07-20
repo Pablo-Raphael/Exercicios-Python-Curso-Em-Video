@@ -79,3 +79,4 @@ Lista de exercícios disponíveis:
 * 077 - Contando vogais em Tupla
 * 078 - Maior e Menor valores na Lista
 * 079 - Valores únicos em uma Lista
+* 080 - Lista ordenada sem repetições
