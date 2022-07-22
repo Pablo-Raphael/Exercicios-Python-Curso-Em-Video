@@ -81,3 +81,4 @@ Lista de exercícios disponíveis:
 * 079 - Valores únicos em uma Lista
 * 080 - Lista ordenada sem repetições
 * 081 - Extraindo dados de uma Lista
+* 082 - Dividindo valores em várias listas
