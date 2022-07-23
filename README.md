@@ -82,3 +82,4 @@ Lista de exercícios disponíveis:
 * 080 - Lista ordenada sem repetições
 * 081 - Extraindo dados de uma Lista
 * 082 - Dividindo valores em várias listas
+* 083 - Validando expressões matemáticas
