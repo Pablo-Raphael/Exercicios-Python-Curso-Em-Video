@@ -83,3 +83,4 @@ Lista de exercícios disponíveis:
 * 081 - Extraindo dados de uma Lista
 * 082 - Dividindo valores em várias listas
 * 083 - Validando expressões matemáticas
+* 084 - Lista composta e análise de dados
