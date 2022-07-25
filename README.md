@@ -84,3 +84,4 @@ Lista de exercícios disponíveis:
 * 082 - Dividindo valores em várias listas
 * 083 - Validando expressões matemáticas
 * 084 - Lista composta e análise de dados
+* 085 - Listas com pares e ímpares
