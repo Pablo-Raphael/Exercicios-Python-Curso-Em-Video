@@ -85,3 +85,4 @@ Lista de exercícios disponíveis:
 * 083 - Validando expressões matemáticas
 * 084 - Lista composta e análise de dados
 * 085 - Listas com pares e ímpares
+* 086 - Matriz em Python
