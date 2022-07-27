@@ -86,3 +86,4 @@ Lista de exercícios disponíveis:
 * 084 - Lista composta e análise de dados
 * 085 - Listas com pares e ímpares
 * 086 - Matriz em Python
+* 087 - Mais sobre Matriz em Python
