@@ -87,3 +87,4 @@ Lista de exercícios disponíveis:
 * 085 - Listas com pares e ímpares
 * 086 - Matriz em Python
 * 087 - Mais sobre Matriz em Python
+* 088 - Palpites para a Mega Sena
