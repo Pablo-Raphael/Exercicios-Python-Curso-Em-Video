@@ -88,3 +88,4 @@ Lista de exercícios disponíveis:
 * 086 - Matriz em Python
 * 087 - Mais sobre Matriz em Python
 * 088 - Palpites para a Mega Sena
+* 089 - Boletim com listas compostas
