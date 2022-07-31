@@ -90,3 +90,4 @@ Lista de exercícios disponíveis:
 * 088 - Palpites para a Mega Sena
 * 089 - Boletim com listas compostas
 * 090 - Dicionário em Python
+* 091 - Jogo de Dados em Python
