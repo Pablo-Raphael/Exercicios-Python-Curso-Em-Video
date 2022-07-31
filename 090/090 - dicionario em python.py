@@ -7,6 +7,7 @@ No final, mostre o conteúdo da estrutura na tela.
 
 # Solução:
 
+
 dicionario = {
     'Nome': input('Digite o nome do aluno : '),
     'Media': float(input(f'Digite a média do aluno : ')),
