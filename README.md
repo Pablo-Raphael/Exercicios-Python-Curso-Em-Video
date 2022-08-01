@@ -91,3 +91,4 @@ Lista de exercícios disponíveis:
 * 089 - Boletim com listas compostas
 * 090 - Dicionário em Python
 * 091 - Jogo de Dados em Python
+* 092 - Cadastro de Trabalhador em Python
