@@ -92,3 +92,4 @@ Lista de exercícios disponíveis:
 * 090 - Dicionário em Python
 * 091 - Jogo de Dados em Python
 * 092 - Cadastro de Trabalhador em Python
+* 093 - Cadastro de Jogador de Futebol
