@@ -93,3 +93,4 @@ Lista de exercícios disponíveis:
 * 091 - Jogo de Dados em Python
 * 092 - Cadastro de Trabalhador em Python
 * 093 - Cadastro de Jogador de Futebol
+* 094 - Unindo dicionários e listas
