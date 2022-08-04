@@ -95,3 +95,4 @@ Lista de exercícios disponíveis:
 * 093 - Cadastro de Jogador de Futebol
 * 094 - Unindo dicionários e listas
 * 095 - Aprimorando os Dicionários
+* 096 - Função que calcula área
