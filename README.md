@@ -94,3 +94,4 @@ Lista de exercícios disponíveis:
 * 092 - Cadastro de Trabalhador em Python
 * 093 - Cadastro de Jogador de Futebol
 * 094 - Unindo dicionários e listas
+* 095 - Aprimorando os Dicionários
