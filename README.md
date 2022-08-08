@@ -99,3 +99,4 @@ Lista de exercícios disponíveis:
 * 097 - Um print especial
 * 098 - Função de Contador
 * 099 - Função que descobre o maior
+* 100 - Funções para sortear e somar
