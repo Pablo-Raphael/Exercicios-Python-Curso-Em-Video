@@ -101,3 +101,4 @@ Lista de exercícios disponíveis:
 * 099 - Função que descobre o maior
 * 100 - Funções para sortear e somar
 * 101 - Funções para votação
+* 102 - Função para Fatorial
