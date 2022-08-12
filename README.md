@@ -103,3 +103,4 @@ Lista de exercícios disponíveis:
 * 101 - Funções para votação
 * 102 - Função para Fatorial
 * 103 - Ficha do Jogador
+* 104 - Validando entrada de dados em Python
