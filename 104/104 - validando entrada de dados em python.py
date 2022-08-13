@@ -7,6 +7,7 @@ só que fazendo a validação para aceitar apenas um valor numérico. Ex: n = le
 
 # Solução:
 
+
 corVermelha = "\033[31m"
 corNeutra = "\033[m"
 
