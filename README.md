@@ -104,3 +104,4 @@ Lista de exercícios disponíveis:
 * 102 - Função para Fatorial
 * 103 - Ficha do Jogador
 * 104 - Validando entrada de dados em Python
+* 105 - Analisando e gerando Dicionários
