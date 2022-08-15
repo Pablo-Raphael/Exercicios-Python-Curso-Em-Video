@@ -106,3 +106,4 @@ Lista de exercícios disponíveis:
 * 104 - Validando entrada de dados em Python
 * 105 - Analisando e gerando Dicionários
 * 106 - Interactive helping system in Python
+* 107 - Exercitando módulos em Python
