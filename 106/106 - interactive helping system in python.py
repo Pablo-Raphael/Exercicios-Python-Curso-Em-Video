@@ -7,6 +7,8 @@ Quando o usuário digitar a palavra 'FIM', o programa se encerrará. Importante:
 """
 
 # Solução:
+
+
 while True:
     print(f"\033[31m {'=' * 80} \033[m")
 
