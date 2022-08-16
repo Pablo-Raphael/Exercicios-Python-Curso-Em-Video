@@ -107,3 +107,4 @@ Lista de exercícios disponíveis:
 * 105 - Analisando e gerando Dicionários
 * 106 - Interactive helping system in Python
 * 107 - Exercitando módulos em Python
+* 108 - Formatando Moedas em Python
