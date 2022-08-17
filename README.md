@@ -108,3 +108,4 @@ Lista de exercícios disponíveis:
 * 106 - Interactive helping system in Python
 * 107 - Exercitando módulos em Python
 * 108 - Formatando Moedas em Python
+* 109 - Formatando Moedas em Python v2.0
