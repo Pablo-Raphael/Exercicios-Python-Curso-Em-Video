@@ -109,3 +109,4 @@ Lista de exercícios disponíveis:
 * 107 - Exercitando módulos em Python
 * 108 - Formatando Moedas em Python
 * 109 - Formatando Moedas em Python v2.0
+* 110 - Reduzindo ainda mais seu programa
