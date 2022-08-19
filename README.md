@@ -110,3 +110,4 @@ Lista de exercícios disponíveis:
 * 108 - Formatando Moedas em Python
 * 109 - Formatando Moedas em Python v2.0
 * 110 - Reduzindo ainda mais seu programa
+* 111 - Transformando módulos em pacotes
