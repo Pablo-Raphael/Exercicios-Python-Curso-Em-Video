@@ -112,3 +112,4 @@ Lista de exercícios disponíveis:
 * 110 - Reduzindo ainda mais seu programa
 * 111 - Transformando módulos em pacotes
 * 112 - Entrada de dados monetários
+* 113 - Funções aprofundadas em Python
