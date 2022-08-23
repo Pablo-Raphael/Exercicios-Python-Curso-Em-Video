@@ -114,3 +114,4 @@ Lista de exercícios disponíveis:
 * 112 - Entrada de dados monetários
 * 113 - Funções aprofundadas em Python
 * 114 - Site está acessível?
+* 115 - Criando um Menu
